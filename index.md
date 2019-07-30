@@ -1,4 +1,4 @@
-<div align=right width=30% height=30%>![证件照](/PersonPhoto.jpg)
+<div align=right>![证件照](/PersonPhoto.jpg)
 ### 个人信息
 #### 姓名：邢斌
 #### 学历：本科
