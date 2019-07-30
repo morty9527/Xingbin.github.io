@@ -1,4 +1,6 @@
-<div align=right>![证件照](/PersonPhoto.jpg)
+<img src="https://github.com/morty9527/morty9527.github.io/blob/master/PersonPhoto.jpg" width = 30% height = 30% />
+
+![证件照](/PersonPhoto.jpg)
 ### 个人信息
 #### 姓名：邢斌
 #### 学历：本科
