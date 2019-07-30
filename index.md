@@ -6,7 +6,6 @@
                 <div class="top_button"><a href="./more.html">MORE</a></div>
             </div>
 ----------------------
-<html>
 <head>
 	<meta charset="utf-8">
 	<title>图片提示效果</title>
@@ -52,7 +51,6 @@
          <li><a href="http://www.google.com" class="last">Google.Com</a></li>
     </ul>
 </body>
-</html>
 ----------
 <img src="/PersonPhoto.jpg" width = 30% height = 30% />
 <div>
