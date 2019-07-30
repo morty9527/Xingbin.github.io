@@ -8,7 +8,6 @@
       <p><b>武汉大学动力与机械学院</b></p>
       <p><b>邮箱：XXX</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/PersonPhoto.jpg" width="100%">
