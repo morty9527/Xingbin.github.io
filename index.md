@@ -1,3 +1,11 @@
+ <div class="top_title">
+                <div class="top_button"><a href="./home_page.html">HOME</a></div>
+                <div class="top_button"><a href="./blog.html">BLOG</a></div>
+                <div class="top_button"><a href="./mine.html">ICY</a></div>
+                <div class="top_button"><a href="./about.html">ABOUT</a></div>
+                <div class="top_button"><a href="./more.html">MORE</a></div>
+            </div>
+
 <img src="/PersonPhoto.jpg" width = 30% height = 30% />
 <div>
 <table border="0">
