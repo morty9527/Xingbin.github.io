@@ -1,11 +1,4 @@
- <div class="top_title">
-                <div class="top_button"><a href="./home_page.html">HOME</a></div>
-                <div class="top_button"><a href="./blog.html">BLOG</a></div>
-                <div class="top_button"><a href="./mine.html">ICY</a></div>
-                <div class="top_button"><a href="./about.html">ABOUT</a></div>
-                <div class="top_button"><a href="./more.html">MORE</a></div>
-            </div>
-----------------------
+
 <head>
 	<meta charset="utf-8">
 	<title>图片提示效果</title>
@@ -52,7 +45,6 @@
     </ul>
 </body>
 ----------
-<img src="/PersonPhoto.jpg" width = 30% height = 30% />
 <div>
 <table border="0">
   <tr>
@@ -63,7 +55,7 @@
       <p><b>邮箱：XXX</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="/PersonPhoto.jpg" width="100%">
     </td>
   </tr>
