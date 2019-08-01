@@ -55,7 +55,7 @@
       <p><b>邮箱：XXX</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
-    <td width="50%">
+    <td width="75%">
       <img src="/PersonPhoto.jpg" width="100%">
     </td>
   </tr>
