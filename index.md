@@ -38,10 +38,10 @@
 </head>
 <body>
     <ul id="menu">
-        <li><a href="http://www.baidu.com">Baidu.Com</a></li>
-         <li><a href="http://www.Code52.Net">Code52.Net</a></li>
-         <li><a href="http://www.yahoo.com">Yahoo.Com</a></li>
-         <li><a href="http://www.google.com" class="last">Google.Com</a></li>
+        <li><a href="http://www.baidu.com">Research</a></li>
+         <li><a href="http://www.Code52.Net">Bio</a></li>
+         <li><a href="http://www.yahoo.com">People</a></li>
+         <li><a href="http://www.google.com" class="last">Pulication</a></li>
     </ul>
 </body>
 ----------
